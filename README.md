@@ -22,7 +22,7 @@
 
 <div align="center">
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FF7B7B&title_bg=%23F3CACA&icon=opsgenie.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/YouYou94)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYouYou94&count_bg=%23FF9393&title_bg=%23F3C4C4&icon=opsgenie.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/YouYou94)
   
 </div>
 
