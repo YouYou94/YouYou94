@@ -9,17 +9,6 @@
 <br>
 <br>
 
-<h2 align="center">Github Stat</h2>
-
-<div align="center">
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YouYou94&show_icons=true&theme=react)
-  
-</div>
-
-<br>
-<br>
-
 <div align="right">
   
   Write: [YouYou94](https://github.com/YouYou94)
