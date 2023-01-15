@@ -20,17 +20,20 @@
 <br>
 <br>
 
-<div align="center">
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYouYou94&count_bg=%23FF9393&title_bg=%23F3C4C4&icon=opsgenie.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/YouYou94)
-  
-</div>
-
-<br>
-<br>
-
 <div align="right">
   
   Write: [YouYou94](https://github.com/YouYou94)
  
 </div>
+
+
+<!--
+<br>
+<br>
+
+<div align="center">
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYouYou94&count_bg=%23FF9393&title_bg=%23F3C4C4&icon=opsgenie.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/YouYou94)
+  
+</div>
+-->
